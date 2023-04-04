@@ -1,0 +1,77 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+
+.logo {
+    width: 150px;
+    height: 100px;
+}
+
+header {
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.navi {
+    margin: 30px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.navi a {
+    margin: 12%;
+    font-size: 20px;
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+main h1 {
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+
+footer {
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+header a:hover {
+    background-color: black;
+    color: white;
+}
+
+nav a:hover {
+    color: purple;
+}
+
+.text-logo {
+    font-size: 50px;
+    color: black;
+    text-align: center;
+    margin-left: 28%;
+}
+
+.navi a {
+    color: black;
+}
+
+
+nav a:focus {
+    color: blue;
+}
+
+footer {
+    color: black;
+    font-size: 25px;
+}
+
+main p {
+    color: white;
+    font-size: 20px;
+}
