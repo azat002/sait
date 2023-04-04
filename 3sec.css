@@ -46,6 +46,10 @@ header a:hover {
     color: white;
 }
 
+main p {
+  text-align: center;
+}
+
 nav a:hover {
     color: purple;
 }
